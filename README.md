@@ -2,7 +2,7 @@
   <img alt="CryptoMiliam — Software builder. Agentic development." src="assets/banner.svg" width="100%">
 </picture>
 
-I build software with AI coding agents and the [Agentic Coding Flywheel](https://agent-flywheel.com/). My work spans private products and the public tools and experiments I share here.
+I build software with AI coding agents and the [Agentic Coding Flywheel](https://agent-flywheel.com/). Most of my product development is private. I’m opening up selected tools and experiments here.
 
 [GitHub activity](https://github.com/CryptoMiliam#contributions) · [Public repositories](https://github.com/CryptoMiliam?tab=repositories&type=source) · [Achievements](https://github.com/CryptoMiliam?tab=achievements)
 
