@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-label="CryptoMiliam — Software builder. Agentic development.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#142b35"/></linearGradient><linearGradient id="line"><stop stop-color="#43e6bf"/><stop offset="1" stop-color="#71aaff"/></linearGradient></defs>
+<rect width="1000" height="270" rx="18" fill="url(#bg)"/>
+<g fill="none" stroke="#27424f" opacity=".55"><path d="M690 0v270M750 0v270M810 0v270M870 0v270M930 0v270M640 60h360M640 120h360M640 180h360M640 240h360"/></g>
+<path d="M660 206l56-32 53 10 52-68 52 19 63-75" fill="none" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#43e6bf"><circle cx="716" cy="174" r="5"/><circle cx="821" cy="116" r="5"/><circle cx="936" cy="60" r="5"/></g>
+<text x="52" y="61" fill="#43e6bf" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">BUILD · REVIEW · SHIP</text>
+<text x="48" y="132" fill="#f2f7fc" font-family="Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-2">CryptoMiliam</text>
+<text x="52" y="178" fill="#b8c9da" font-family="Arial,sans-serif" font-size="22">Software builder. Agentic development.</text>
+<rect x="52" y="210" width="60" height="3" rx="1.5" fill="url(#line)"/>
+</svg>
